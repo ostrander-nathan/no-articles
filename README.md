@@ -1,5 +1,4 @@
 # no-articles
-# psuedo
 
 ### Description: 
 
